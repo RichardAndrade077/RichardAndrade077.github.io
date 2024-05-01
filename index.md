@@ -1,4 +1,3 @@
-# RichardAndrade077.github.io
 # Richard Andrade’s Portfolio	
 
 
